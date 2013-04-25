@@ -44,6 +44,6 @@ public class Person {
 				//for example, in the future we decided to split the "name" field into two fields: "firstName" and "lastName".  Would only need to change getName() to: "return firstName + "" + lastName;"
 					//as long as we used getName() and not the "name"field, all other methods would still work.
 	}
-	
+	//test comment
 	
 }
