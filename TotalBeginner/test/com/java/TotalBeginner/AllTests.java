@@ -14,5 +14,5 @@ public class AllTests {
 		//$JUnit-END$
 		return suite;
 	}
-/another test push
+//another test push
 }
